@@ -18,3 +18,5 @@ function fancyAlert(arg) {
  }
 }
 ```
+
+[[back|Welcome]]
